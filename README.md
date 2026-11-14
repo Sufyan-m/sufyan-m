@@ -1,38 +1,30 @@
+⚔️ Hey, I'm Sufyan!
 
-# Hey, I'm Sufyan! 👋
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Developer+in+Progress+%F0%9F%90%8D;ICS+Student+%F0%9F%8E%93;Gamer+%7C+Anime+Enthusiast;This+Too+Shall+Pass." />Learning • Building • Improving
 
-### Python Developer in Progress 🐍
+</div>🧑‍💻 About Me
 
-I'm an ICS student exploring programming,
-automation and software development.
+- 🐍 Learning Python and Automation.
+- 🎓 ICS Student.
+- 🎮 Gamer & Anime Lover.
+- 🚀 Building projects and improving every day.
 
-- 🔭 Currently learning Python
-- 💻 Building small automation projects
-- 🧠 Interested in AI and technology
-- 🎮 Gamer and anime enthusiast
-- 🚀 Learning by building and experimenting
+⚡ Tech Stack
 
-### Tech Stack
-Python | Git | GitHub | VS Code
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />📊 GitHub Stats
 
-### My Projects
-More projects coming soon!
+<div align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=Sufyan-m&show_icons=true&theme=tokyonight&hide_border=true" /><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan-m&layout=compact&theme=tokyonight&hide_border=true" /></div>🚀 Featured Projects
 
----
+- 🐍 "BinaryEncoder" (https://github.com/Sufyan-m/BinaryEncoder) | Text to Binary Converter
+- 🔐 Password Generator
+- ⏳ Countdown Timer
 
+🏆 Achievements
 
+<img src="https://github-profile-trophy.vercel.app/?username=Sufyan-m&theme=tokyonight&no-frame=true&row=1&column=4" />📈 Contribution Graph
 
-<!--
-**Sufyan-m/sufyan-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sufyan-m&theme=tokyo-night&hide_border=true" /><div align="center">"This too shall pass."
 
-Here are some ideas to get you started:
+⚔️ Keep Learning. Keep Building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
