@@ -1,8 +1,8 @@
 Hey, I'm Sufyan! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,7,8&height=120&section=header&text=Sufyan&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=550&lines=Python+Developer+in+Progress+%F0%9F%90%8D;ICS+Student+%F0%9F%8E%93;Exploring+Automation+%F0%9F%92%BB;Learning+by+Building+%F0%9F%9A%80" />
+  <img src="https://vercel.app" width="100%" />
+  <img src="https://demolab.com" />
 
   **Python Developer in Progress 🐍**
 
@@ -24,7 +24,7 @@ I'm an ICS student exploring programming, automation and software development.
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev" />
 </div>
 
 ### 📊 GitHub Overview
@@ -37,7 +37,7 @@ I'm an ICS student exploring programming, automation and software development.
 ### 🚀 My Projects
 
 <div align="center">
-  <a href="https://github.com/Sufyan-m/BinaryEncoder">
+  <a href="https://github.com">
     <img src="https://vercel.app" />
   </a>
 </div>
@@ -53,7 +53,7 @@ Explore my actual GitHub achievements:
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://deno.dev" />
+  <img width="95%" src="https://vercel.app" />
 </div>
 
 ---
@@ -82,5 +82,5 @@ Explore my actual GitHub achievements:
 <div align="center">
   Thanks for visiting! 👋
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=100&section=footer" width="100%" />
+  <img src="https://vercel.app" width="100%" />
 </div>
