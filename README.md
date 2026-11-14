@@ -1,36 +1,54 @@
-⚔️ Hey, I'm Sufyan!
+Hey, I'm Sufyan! 👋
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:302b63,100:00d4ff&height=160&section=header&text=SUFYAN.exe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2000&pause=700&color=00D4FF&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress+%F0%9F%90%8D;ICS+Student+%F0%9F%8E%93;Gamer+%7C+Anime+Enthusiast;Building+Cool+Things+With+Python;Welcome+To+My+Digital+World!" />Learning • Coding • Exploring
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,7,8&height=120&section=header&text=Sufyan&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=550&lines=Python+Developer+in+Progress+%F0%9F%90%8D;ICS+Student+%F0%9F%8E%93;Exploring+Automation+%F0%9F%92%BB;Learning+by+Building+%F0%9F%9A%80" />Python Developer in Progress 🐍
 
-<img src="https://komarev.com/ghpvc/?username=Sufyan-m&style=for-the-badge&color=blueviolet&label=PROFILE+VISITORS" /></div>---
+Learning • Building • Experimenting
 
-🧑‍💻 About Me
+</div>---
 
-- 🐍 Python & Automation learner.
-- 🎓 ICS Student.
-- 🎮 Gamer and Anime enthusiast.
-- 🚀 Building projects and exploring technology.
+👨‍💻 About Me
 
-⚡ Tech Stack
+I'm an ICS student exploring programming, automation and software development.
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /></div>🏷️ Developer Badges
+- 🔭 Currently learning Python
+- 💻 Building small automation projects
+- 🧠 Interested in AI and technology
+- 🎮 Gamer and anime enthusiast
+- 🚀 Learning by building and experimenting
 
-<div align="center">"Python" (https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github)
+🛠️ Tech Stack
 
-</div>🚀 Featured Projects
+<div align="center"><img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" /></div>📊 GitHub Overview
 
-- 🐍 "BinaryEncoder" (https://github.com/Sufyan-m/BinaryEncoder) | Text to Binary Converter
-- 🔐 Password Generator
-- ⏳ Countdown Timer
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Sufyan-m&show_icons=true&theme=default&hide_border=true" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan-m&layout=compact&theme=default&hide_border=true" /></div>🚀 My Projects
+
+<div align="center"><a href="https://github.com/Sufyan-m/BinaryEncoder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sufyan-m&repo=BinaryEncoder&theme=default&hide_border=true" />
+</a></div>More projects coming soon!
 
 🏆 GitHub Achievements
 
-Check out my earned achievements on my "GitHub Profile" (https://github.com/Sufyan-m).
+Explore my actual GitHub achievements:
 
-📊 Contribution Activity
+"View GitHub Profile →" (https://github.com/Sufyan-m)
 
-<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sufyan-m&theme=tokyo-night&hide_border=true&area=true" /></div><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:090979&height=120&section=footer" width="100%" />⚡ Thanks for visiting my profile!
+📈 Contribution Activity
 
-</div>
+<div align="center"><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sufyan-m&theme=github-light&hide_border=true&area=true" /></div>---
+
+<details>
+<summary>🎯 Current Learning Goals</summary>- Python programming
+- Problem solving
+- Automation
+- Building useful projects
+- Exploring software development
+
+</details><details>
+<summary>🎮 Beyond Coding</summary>- Anime
+- Gaming
+- Technology
+- Exploring new ideas
+
+</details><div align="center">Thanks for visiting! 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=100&section=footer" width="100%" /></div>
