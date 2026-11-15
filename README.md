@@ -1,95 +1,82 @@
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
 
-  <img src="https://demolab.com" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sufyan+%F0%9F%91%8B;Python+Developer+in+Progress+%F0%9F%90%8D;Building.+Breaking.+Debugging.;This+too+shall+pass." />
+
+<br>
+
+### `ICS Student` • `Python Developer` • `Tech Enthusiast`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
+
 </div>
 
----
+## About Me
 
-### 👨‍💻 About Me
+```python
+class Sufyan:
+    def __init__(self):
+        self.role = "Python Developer in Progress"
+        self.education = "ICS Student"
+        self.interests = [
+            "Python",
+            "Automation",
+            "Artificial Intelligence",
+            "Software Development"
+        ]
+        self.hobbies = ["Gaming", "Anime", "Coding"]
 
-I'm an ICS student exploring programming, automation, and software development.
+    def motto(self):
+        return "This too shall pass."
+```
 
-- 🔭 Currently learning **Python** & building desktop tools
-- 💻 Building small automation projects (`PyDesk-Toolkit`, `spidey-pdf-tool`)
-- 🧠 Interested in **AI**, cybersecurity, and modern tech
-- 🎮 Hardcore gamer & anime fan (**Resident Evil 4** — Leon & Ashley squad 🔫)
-- 🚀 Learning by building and experimenting
-
----
-
-### 🛠️ Tech Stack & Tools
+## Tech Stack
 
 <div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
+
 </div>
 
----
-
-### 🎮 Gaming & Anime Loadout
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=sufyan-m&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan-m&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%"/>
+
 </div>
 
----
-
-### 📊 GitHub Overview
+## Contribution Streak
 
 <div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://komarev.com" />
+
+<img src="https://streak-stats.demolab.com?user=sufyan-m&theme=github-dark-blue&hide_border=true&background=0D1117" width="80%"/>
+
 </div>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[BinaryEncoder](https://github.com)** | Converts normal text into machine-readable `0s` and `1s` binary code | ![Python](https://shields.io) |
-| **[spidey-pdf-tool](https://github.com)** | Triple Spider-Man themed CLI tool to merge and split PDFs safely | ![Python](https://shields.io) |
-| **[PyDesk-Toolkit](https://github.com.)** | Desktop automation suite: Bulk Renamer, Cleaner Bot & Auto-Shutdown | ![Python](https://shields.io) |
-
----
-
-### 🏆 GitHub Achievements
-
-Explore my actual GitHub achievements: **[View GitHub Profile →](https://github.com/Sufyan-m)**
-
----
-
-<details>
-<summary>🎯 Current Learning Goals</summary>
-
-- Python programming & scripting
-- Problem solving & logic building
-- Desktop & workflow automation
-- Building useful open-source projects
-- Exploring AI & software development
-
-</details>
-
-<details>
-<summary>🎮 Beyond Coding</summary>
-
-- Resident Evil & Story-Driven Games
-- Anime & Manga
-- PC Hardware & Tech
-- Exploring new ideas
-
-</details>
+## Contribution Snake 🐍
 
 <div align="center">
-  <br />
-  <b>Thanks for visiting! 👋</b>
-  <img src="https://vercel.app" width="100%" />
+
+<img src="https://raw.githubusercontent.com/sufyan-m/sufyan-m/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+## Currently Building
+
+- 🐍 Learning Python
+- ⚙️ Exploring Automation
+- 🧠 Improving Problem Solving
+- 💻 Building practical projects
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="100%"/>
+
+### `THIS TOO SHALL PASS.`
+
+**Keep Building. Keep Learning. Never Give Up.**
+
 </div>
