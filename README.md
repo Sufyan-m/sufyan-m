@@ -1,80 +1,52 @@
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sufyan+%F0%9F%91%8B;Python+Developer+in+Progress+%F0%9F%90%8D;Building.+Breaking.+Debugging.;." />
-
-<br>
-
-### `ICS Student` • `Python Developer` • `Tech Enthusiast`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-
+  <img src="https://giphy.com" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Spider-Man Animation" />
+  <h1>🕷️ Sufyan-m | Stark Tech × Umbrella Lab ☣️</h1>
+  <p><i>"With great Python scripts comes great responsibility."</i></p>
 </div>
 
-## About Me
+---
+
+### 🦾 J.A.R.V.I.S. System Profile
 
 ```python
 class Sufyan:
     def __init__(self):
-        self.role = "Python Developer in Progress"
-        self.education = "ICS Student"
-        self.interests = [
-            "Python",
-            "Automation",
-            "Artificial Intelligence",
-            "Software Development"
-        ]
-        self.hobbies = ["Gaming", "Anime", "Coding"]
+        self.alias = "Spidey-Dev"
+        self.education = "Class 11 — ICS (BIEK)"
+        self.armor_suit = ["Python", "Automation", "PDF & CLI Tools"]
+        self.secondary_weapons = ["HTML", "CSS", "JavaScript"]
+        self.umbrella_clearance = "LEVEL-4 (T-Virus Debugging)"
 
-    def motto(self):
-        return "This too shall pass."
+    def status(self):
+        return "Suit charged 100% — Building daily."
 ```
 
-## Tech Stack
+---
+
+### ☣️ Umbrella Corp. Arsenal (Tech Stack)
+
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
-
+  <img src="https://giphy.com" width="48%" alt="Iron Man HUD" />
+  <img src="https://giphy.com" width="48%" alt="Spider-Man Swing" />
 </div>
 
-### 📊 GitHub Statistics
+---
+
+### 📊 Stark Telemetry (GitHub Stats)
 
 <p align="center">
-  <img src="https://vercel.app" alt="Sufyan's GitHub Stats" height="165" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" height="165" />
   <img src="https://vercel.app" alt="Top Languages" height="165" />
 </p>
 
+---
 
-## Contribution Streak
+### 🕸️ Activity Pulse
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sufyan-m&theme=github-dark-blue&hide_border=true&background=0D1117" width="80%"/>
-
-</div>
-
-## Contribution Snake 🐍
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sufyan-m/sufyan-m/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-## Currently Building
-
-- 🐍 Learning Python
-- ⚙️ Exploring Automation
-- 🧠 Improving Problem Solving
-- 💻 Building practical projects
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="100%"/>
-
-### `THIS TOO SHALL PASS.`
-
-**Keep Building. Keep Learning. Never Give Up.**
-
-</div>
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
