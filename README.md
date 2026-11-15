@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Spider-Man Animation" />
+  <img src="./assets/no-way-home-spider-man-no-way-home.gif" width="100%" alt="Spider-Man Banner" />
   <h1>🕷️ Sufyan-m | Stark Tech × Umbrella Lab ☣️</h1>
   <p><i>"With great Python scripts comes great responsibility."</i></p>
 </div>
@@ -23,30 +23,17 @@ class Sufyan:
 
 ---
 
-### ☣️ Umbrella Corp. Arsenal (Tech Stack)
+### ☣️ Umbrella Corp. Arsenal
 
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 <div align="center">
-  <img src="https://giphy.com" width="48%" alt="Iron Man HUD" />
-  <img src="https://giphy.com" width="48%" alt="Spider-Man Swing" />
+  <img src="./assets/sealyx-tony-stark.gif" width="75%" alt="Iron Man" />
 </div>
-
----
-
-### 📊 Stark Telemetry (GitHub Stats)
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="165" />
-  <img src="https://vercel.app" alt="Top Languages" height="165" />
-</p>
-
----
-
-### 🕸️ Activity Pulse
-
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
