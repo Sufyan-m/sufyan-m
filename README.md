@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sufyan+%F0%9F%91%8B;Python+Developer+in+Progress+%F0%9F%90%8D;Building.+Breaking.+Debugging.;This+too+shall+pass." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sufyan+%F0%9F%91%8B;Python+Developer+in+Progress+%F0%9F%90%8D;Building.+Breaking.+Debugging.;." />
 
 <br>
 
@@ -38,15 +38,13 @@ class Sufyan:
 
 </div>
 
-## GitHub Statistics
+### 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://vercel.app" alt="Sufyan's GitHub Stats" height="165" />
+  <img src="https://vercel.app" alt="Top Languages" height="165" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sufyan-m&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan-m&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%"/>
-
-</div>
 
 ## Contribution Streak
 
