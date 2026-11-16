@@ -48,10 +48,7 @@ I'm an ICS student exploring programming, automation and software development.
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-  <img width="95%" src="https://githubusercontent.com" alt="Snake Animation" />
-</div>
-
+<img src="./snake.svg" width="100%" alt="Animated Snake">
 ---
 
 ### 🚀 My Projects
