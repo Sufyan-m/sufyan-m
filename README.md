@@ -39,19 +39,22 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 
 **Currently focused on:** Python fundamentals, problem-solving, Git, GitHub, and small practical projects.
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://vercel.app" alt="Sufyan's GitHub stats" />
+  <img src="https://vercel.app" alt="Most used languages" />
+  <br/>
+  <img src="https://demolab.com" alt="GitHub streak stats" />
+</p>
 
-<img height="165" src="https://vercel.app" alt="Sufyan's GitHub stats" />
+---
 
-<img height="165" src="https://vercel.app" alt="Most used languages" />
+### 🐍 Contribution Snake
 
-<br/>
-
-<img src="https://herokuapp.com" alt="GitHub streak stats" />
-
-</div>
+<p align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake" />
+</p>
 
 
 ## 📚 Currently Learning
@@ -80,14 +83,7 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 <div align="center">
 
 
-### 🐍 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-  <img alt="GitHub Contribution Snake" src="https://githubusercontent.com" />
-</picture>
-</div>
 
 
 
