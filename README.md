@@ -79,7 +79,7 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 
 <div align="center">
 
-*“This too shall pass.”*
+
 
 **Thanks for visiting my profile!**
 
