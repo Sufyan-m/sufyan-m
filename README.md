@@ -43,13 +43,13 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sufyan-m&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Sufyan's GitHub stats" />
+<img height="165" src="https://vercel.app" alt="Sufyan's GitHub stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan-m&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://vercel.app" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sufyan-m&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
+<img src="https://herokuapp.com" alt="GitHub streak stats" />
 
 </div>
 
@@ -80,23 +80,13 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 <div align="center">
 
 
-## 🐍 Watch My Contributions Get Eaten!
+### 🐍 
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/snake.svg"
-    />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+  <img alt="GitHub Contribution Snake" src="https://githubusercontent.com" />
+</picture>
 </div>
 
 
