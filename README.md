@@ -41,7 +41,7 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Sufyan Profile Summary" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
   <br/>
   <img src="https://vercel.app" alt="Sufyan Stats" />
   <img src="https://vercel.app" alt="Top Languages" />
@@ -52,7 +52,11 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+    <img alt="GitHub Contribution Snake" src="https://githubusercontent.com" />
+  </picture>
 </p>
 
 
