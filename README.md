@@ -5,7 +5,7 @@
 
 ### `ICS Student` • `Python Developer in Progress` • `Gamer` • `Anime Fan`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Python%2C+one+project+at+a+time;Building+things+and+breaking+bugs;Turning+ideas+into+code;This+too+shall+pass." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Python%2C+one+project+at+a+time;Building+things+and+breaking+bugs;Turning+ideas+into+code;." alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,7 @@ I'm an ICS student from Pakistan exploring the world of programming and software
 - 🧠 Interested in programming, AI, and technology
 - 🎮 Gamer and anime fan
 - 📚 Learning by building, experimenting, and debugging
-- ⚡ Motto: **"This too shall pass."**
+
 
 I believe progress comes from consistency, curiosity, and not giving up when the code refuses to cooperate.
 
@@ -53,13 +53,6 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 
 </div>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-
-</div>
 
 ## 📚 Currently Learning
 
@@ -73,10 +66,15 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github)](https://github.com/Sufyan-m)
+<a href="https://github.com/Sufyan-m">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.instagram.com/sufyan__here__">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
-
 ---
 
 <div align="center">
