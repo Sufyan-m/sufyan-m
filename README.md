@@ -80,6 +80,26 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 <div align="center">
 
 
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/snake.svg"
+    />
+  </picture>
+</div>
+
+
 
 **Thanks for visiting my profile!**
 
