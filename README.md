@@ -1,1 +1,90 @@
-s 
+ 
+<div align="center">
+
+# Hey, I'm Sufyan 👋
+
+### `ICS Student` • `Python Developer in Progress` • `Gamer` • `Anime Fan`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Python%2C+one+project+at+a+time;Building+things+and+breaking+bugs;Turning+ideas+into+code;This+too+shall+pass." alt="Typing SVG" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sufyan--m-181717?style=for-the-badge&logo=github)](https://github.com/Sufyan-m)
+[![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an ICS student from Pakistan exploring the world of programming and software development.
+
+- 🐍 Currently learning **Python**
+- 💻 Building small projects and automation tools
+- 🧠 Interested in programming, AI, and technology
+- 🎮 Gamer and anime fan
+- 📚 Learning by building, experimenting, and debugging
+- ⚡ Motto: **"This too shall pass."**
+
+I believe progress comes from consistency, curiosity, and not giving up when the code refuses to cooperate.
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,windows&theme=dark" alt="Python, Git, GitHub, VS Code and Windows icons" />
+
+</div>
+
+**Currently focused on:** Python fundamentals, problem-solving, Git, GitHub, and small practical projects.
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sufyan-m&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Sufyan's GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan-m&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sufyan-m&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
+
+</div>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+
+</div>
+
+## 📚 Currently Learning
+
+- Python programming
+- Problem-solving and logical thinking
+- Git and GitHub
+- Automation with Python
+- Building useful projects
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github)](https://github.com/Sufyan-m)
+
+</div>
+
+---
+
+<div align="center">
+
+*“This too shall pass.”*
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:1F6FEB&height=90&section=footer" alt="Decorative footer" />
+
+</div>
