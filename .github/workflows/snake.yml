@@ -1,12 +1,15 @@
-name: generate animation
+
+name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+
   push:
     branches:
       - main
+
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,21 +17,50 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Sufyan-m
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+      # 1. Download repository
 
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      # 2. Install Python
+
+      - name: Setup Python
+        uses: actions/setup-python@v7
         with:
-          target_branch: output
-          build_dir: dist
+          python-version: "3.13"
+
+      # 3. Generate SVG files
+
+      - name: Generate contribution snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate_snake.py
+
+      # 4. Publish SVG files to output branch
+
+      - name: Deploy to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          mkdir -p deploy
+
+          cp dist/snake.svg deploy/
+          cp dist/snake-dark.svg deploy/
+
+          cd deploy
+
+          git init -b output
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add snake.svg snake-dark.svg
+
+          git commit -m "Update contribution snake"
+
+          git push --force \
+            "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            output
