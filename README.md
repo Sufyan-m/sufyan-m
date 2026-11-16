@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hey, I'm Sufyan 👋
@@ -25,7 +26,6 @@ I'm an ICS student from Pakistan exploring the world of programming and software
 - 🎮 Gamer and anime fan
 - 📚 Learning by building, experimenting, and debugging
 
-
 I believe progress comes from consistency, curiosity, and not giving up when the code refuses to cooperate.
 
 ## 🛠️ Skills & Tools
@@ -41,10 +41,10 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sufyan-m&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://vercel.app" alt="Sufyan Stats" />
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sufyan-m&show_icons=true&theme=tokyonight" alt="Sufyan Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sufyan-m&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -52,10 +52,8 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-
 
 ## 📚 Currently Learning
 
@@ -81,11 +79,6 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 ---
 
 <div align="center">
-
-
-
-
-
 
 **Thanks for visiting my profile!**
 
