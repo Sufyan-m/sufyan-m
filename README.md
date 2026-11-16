@@ -49,11 +49,10 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 
 ---
 
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sufyan-m/Sufyan-m/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://githubusercontent.com" alt="My Custom Python Snake" />
 </p>
+
 
 ## 📚 Currently Learning
 
