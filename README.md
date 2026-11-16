@@ -42,10 +42,10 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Sufyan's GitHub stats" />
-  <img src="https://vercel.app" alt="Most used languages" />
+  <img src="https://vercel.app" alt="Sufyan Profile Summary" />
   <br/>
-  <img src="https://demolab.com" alt="GitHub streak stats" />
+  <img src="https://vercel.app" alt="Sufyan Stats" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
 
 ---
