@@ -63,7 +63,7 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 - Automation with Python
 - Building useful projects
 
-- <p align="center">
+<p align="center">
   <img src="https://vercel.app" alt="Dev Quote" />
 </p>
 
