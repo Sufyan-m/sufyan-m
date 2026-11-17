@@ -46,12 +46,10 @@ I believe progress comes from consistency, curiosity, and not giving up when the
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sufyan-m&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com" />
-  <img alt="github-snake" src="https://github.com" />
-</picture>
+**<div align="center">
+  <img src="https://githubusercontent.com" alt="github-snake" />
+</div>
+**
 
 
 ## 📚 Currently Learning
