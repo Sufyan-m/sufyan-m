@@ -48,10 +48,11 @@ I believe progress comes from consistency, curiosity, and not giving up when the
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://githubusercontent.com" alt="My Custom Python Snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+  <img alt="github-snake" src="https://githubusercontent.com" />
+</picture>
 
 
 ## 📚 Currently Learning
