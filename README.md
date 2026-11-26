@@ -6,7 +6,7 @@
 <div align="center">
 
 
-# Sufyan
+
 
 `ICS Student` · `Python Developer`
 
